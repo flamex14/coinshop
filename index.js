@@ -221,4 +221,4 @@ client.on('message', (msg) => {
     return;
   }
 })
-client.login(process.env.BOT_TOKEN)
+client.login(config.token)
