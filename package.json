@@ -1,0 +1,16 @@
+{
+  "name": "test-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Flamex",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "mysql": "^2.18.1",
+    "request": "2.81.0"
+  }
+}
